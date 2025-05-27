@@ -1,18 +1,52 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T14:29:45.402-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:49:35.024-04:00"}
 ---
 
 # Helpful Links
-- Portable Client for Windows
-	- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
-	- This will allow you to run it without installing it.
-- Main Website: https://cockatrice.github.io/
-	- Download the client from this site for windows, mac, etc.
 - Cockatrice Wiki: https://github.com/Cockatrice/Cockatrice/wiki
 	- Tutorials on setting up the client, how to play, etc.
 	- Tutorials quick-link: https://github.com/Cockatrice/Cockatrice/wiki/Tutorials
-- Etiquettes and Mechanics: https://www.reddit.com/r/Cockatrice/comments/8rke0a/etiquette_and_cockatrice_mechanics/
-# Registering To Server
+- Etiquette
+	- Primer: https://github.com/Cockatrice/Cockatrice/wiki/The-Cockatrice-Etiquette-Primer
+	- Etiquettes and Mechanics: https://www.reddit.com/r/Cockatrice/comments/8rke0a/etiquette_and_cockatrice_mechanics/
+
+# Client Setup
+
+## Download Software
+
+Portable Client for Windows
+- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
+- This will allow you to run it without installing it.
+Main Website: https://cockatrice.github.io/
+- Download the client from this site for windows, mac, etc.
+
+## Install
+
+Follow the default install / instructions.
+https://github.com/Cockatrice/Cockatrice/wiki/Getting-Started
+
+## Themes
+
+### Recommended
+- MTGO Themed: https://github.com/ArtemisGraphic/MTGO-Theme-for-Cockatrice#
+	- Dark Theme
+	- Requires Font Install
+- Modern: https://github.com/jonschoning/cockatrice-theme-modern/tree/master
+	- Minimalist
+	- Cleaner interface
+	- Comes with sound theme as well
+
+### Installing
+https://github.com/Cockatrice/Cockatrice/wiki/Themes
+**TLDR;**
+1. Download code zip file from GitHub or clone repo
+2. Navigate to "themes" folder in Cockatrice folder
+3. Copy and paste theme folder
+4. Reboot client
+
+# Server Setup
+
+## Registering
 
 1. Under "Cockatrice" menu, click "Register to server"
 ![Pasted image 20250527110531.png|300](/img/user/Wiki/attachments/Pasted%20image%2020250527110531.png)
@@ -48,11 +82,19 @@
 4. It will list all the cards. Leave all settings as is and click "Ok"
 5. Set your deck name at the top right under "Deck"
 6. Save the deck to your harddrive (CTRL+S) or Deck Editor > Save
-7. Commander Decks
-	1. Set Commander as Deck Image
-		1. Set the "Banner Card" in the deck to your commander
-		2. ![Pasted image 20250527112837.png|200](/img/user/Wiki/attachments/Pasted%20image%2020250527112837.png)
+### Commander Decks
+1. Set Commander as Deck Image
+	1. Set the "Banner Card" in the deck to your commander
+	 ![Pasted image 20250527112837.png|200](/img/user/Wiki/attachments/Pasted%20image%2020250527112837.png)
 	2. Move Commander to Sideboard
 		1. Find and click your commander
 		2. Click the following icon ![Pasted image 20250527112549.png|25](/img/user/Wiki/attachments/Pasted%20image%2020250527112549.png)
 		3. This will move your commander to the sideboard to find him easier when you play a game
+
+# Setting Up A Commander Game
+1. Set life total to 40 by hitting CTRL+L on the keyboard
+2. Pull commander from your sideboard
+	1. CTRL+F3
+	2. Drag to the play "Stack" area (i.e. the vertical strip to the right of the life/draw/discard)
+3. Draw 7 cards - CTRL+M
+4. Mulligan: CTRL+M again (Reduce card count if necessary)
