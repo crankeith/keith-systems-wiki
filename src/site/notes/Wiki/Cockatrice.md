@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/cockatrice/","updated":"2025-05-27T11:32:04.945-04:00"}
+{"dg-publish":true,"dg-path":"Cockatrice.md","permalink":"/cockatrice/","updated":"2025-05-27T11:55:37.697-04:00"}
 ---
 
 # Helpful Links
+- Self-Contained Client for Windows
+	- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
+	- This will allow you to run it without installing it.
 - Main Website: https://cockatrice.github.io/
 	- Download the client from this site for windows, mac, etc.
 - Cockatrice Wiki: https://github.com/Cockatrice/Cockatrice/wiki
