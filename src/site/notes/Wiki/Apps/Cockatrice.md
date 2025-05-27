@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:58:25.350-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:58:30.475-04:00"}
 ---
 
 # Helpful Links
@@ -11,9 +11,6 @@
 	- Etiquettes and Mechanics: https://www.reddit.com/r/Cockatrice/comments/8rke0a/etiquette_and_cockatrice_mechanics/
 
 # Client Setup
-
-
-
 
 ## Install
 
