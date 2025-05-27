@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T12:06:01.754-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T14:29:45.402-04:00"}
 ---
 
 # Helpful Links
-- Self-Contained Client for Windows
+- Portable Client for Windows
 	- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
 	- This will allow you to run it without installing it.
 - Main Website: https://cockatrice.github.io/
