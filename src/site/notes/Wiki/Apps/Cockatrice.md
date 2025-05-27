@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:49:35.024-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:58:25.350-04:00"}
 ---
 
 # Helpful Links
@@ -12,18 +12,18 @@
 
 # Client Setup
 
-## Download Software
 
-Portable Client for Windows
-- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
-- This will allow you to run it without installing it.
-Main Website: https://cockatrice.github.io/
-- Download the client from this site for windows, mac, etc.
+
 
 ## Install
 
-Follow the default install / instructions.
-https://github.com/Cockatrice/Cockatrice/wiki/Getting-Started
+### Portable Version (Windows Only)
+Instead of installing the app, you can use this portable version of it I've zipped up and put into Google Drive. Unzip it and launch the executable.
+- https://drive.google.com/file/d/11Lh1XN5I8CMqNG0TZ1s_Z623tp1jjbeY/view?usp=drive_link
+
+### New Install
+1. Download the client install file from their main website: https://cockatrice.github.io/
+2. Follow the default install / instructions: https://github.com/Cockatrice/Cockatrice/wiki/Getting-Started
 
 ## Themes
 
