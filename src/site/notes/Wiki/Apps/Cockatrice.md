@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T11:55:37.697-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T12:06:01.754-04:00"}
 ---
 
 # Helpful Links
@@ -37,7 +37,7 @@
 2. Uncheck "Include out of deck cards (eg: maybeboard)"
 3. Leave all other settings the same
 4. Click "Copy"
-5. Follow the [[#Add to Cockatrice]] instructions below.
+5. Follow the [[Wiki/Apps/Cockatrice#Add to Cockatrice\|Add to Cockatrice]] instructions below.
 
 ## Add to Cockatrice
 
