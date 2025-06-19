@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-05-27T16:58:30.475-04:00"}
+{"dg-publish":true,"dg-path":"Apps/Cockatrice.md","permalink":"/apps/cockatrice/","updated":"2025-06-19T07:02:12.700-04:00"}
 ---
 
 # Helpful Links
@@ -10,6 +10,7 @@
 	- Primer: https://github.com/Cockatrice/Cockatrice/wiki/The-Cockatrice-Etiquette-Primer
 	- Etiquettes and Mechanics: https://www.reddit.com/r/Cockatrice/comments/8rke0a/etiquette_and_cockatrice_mechanics/
 
+---
 # Client Setup
 
 ## Install
@@ -22,6 +23,7 @@ Instead of installing the app, you can use this portable version of it I've zipp
 1. Download the client install file from their main website: https://cockatrice.github.io/
 2. Follow the default install / instructions: https://github.com/Cockatrice/Cockatrice/wiki/Getting-Started
 
+---
 ## Themes
 
 ### Recommended
@@ -41,21 +43,24 @@ https://github.com/Cockatrice/Cockatrice/wiki/Themes
 3. Copy and paste theme folder
 4. Reboot client
 
+---
 # Server Setup
 
 ## Registering
 
 1. Under "Cockatrice" menu, click "Register to server"
 ![Pasted image 20250527110531.png|300](/img/user/Wiki/attachments/Pasted%20image%2020250527110531.png)
-2. Enter the host/port provided separately and then the following:
+2. Enter the host & port provided to you separately and then the following:
  ![Pasted image 20250527110843.png|300](/img/user/Wiki/attachments/Pasted%20image%2020250527110843.png)
 - Player Name (This is also your username)
 	- Must be at least 8 characters long
 - Password
 	- Must be at least 8 characters long
+	- **NOTE:** Save this somewhere as it doesn't automatically save it for you at this point
 - Email is required. An email with an activation code will be sent afterwards.
 - Country/Real Name not required.
 
+---
 # Importing Decks
 
 ## Archidekt
@@ -74,11 +79,11 @@ https://github.com/Cockatrice/Cockatrice/wiki/Themes
 
 1. Go to Cockatrice and make sure your Deck Editor is open
 ![Pasted image 20250527112305.png|300](/img/user/Wiki/attachments/Pasted%20image%2020250527112305.png)
-2. Create a new deck (CTRL+N) or Deck Editor > New Deck
-3. Load deck from clipboard (CTRL+SHIFT+V) or Deck Editor > Load deck from clipboard
+2. Create a new deck `CTRL+N` or "Deck Editor > New Deck"
+3. Load deck from clipboard `CTRL+SHIFT+V` or "Deck Editor > Load deck from clipboard"
 4. It will list all the cards. Leave all settings as is and click "Ok"
 5. Set your deck name at the top right under "Deck"
-6. Save the deck to your harddrive (CTRL+S) or Deck Editor > Save
+6. Save the deck to your harddrive `CTRL+S` or Deck Editor > Save
 ### Commander Decks
 1. Set Commander as Deck Image
 	1. Set the "Banner Card" in the deck to your commander
@@ -88,10 +93,11 @@ https://github.com/Cockatrice/Cockatrice/wiki/Themes
 		2. Click the following icon ![Pasted image 20250527112549.png|25](/img/user/Wiki/attachments/Pasted%20image%2020250527112549.png)
 		3. This will move your commander to the sideboard to find him easier when you play a game
 
+---
 # Setting Up A Commander Game
-1. Set life total to 40 by hitting CTRL+L on the keyboard
-2. Pull commander from your sideboard
-	1. CTRL+F3
-	2. Drag to the play "Stack" area (i.e. the vertical strip to the right of the life/draw/discard)
-3. Draw 7 cards - CTRL+M
-4. Mulligan: CTRL+M again (Reduce card count if necessary)
+1. Pull commander from your sideboard
+	1. `CTRL+F3`
+	2. Drag to the "Stack" area (i.e. the vertical strip on the left of the play area)
+2. Roll to see who goes first - `CTRL + i`
+3. Draw 7 cards - `CTRL+ m`
+4. Mulligan: `CTRL+M` again (Reduce card count if necessary)
